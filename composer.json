@@ -1,0 +1,21 @@
+{
+    "name": "bbldn/adcom-laravel",
+    "description": "AdCOM specification",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2",
+        "spatie/laravel-data": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "BBLDN\\AdCOMLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bbldn05",
+            "email": "bobol.boris@gmail.com"
+        }
+    ]
+}
